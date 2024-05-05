@@ -1,15 +1,3 @@
-/**
- * My Store
- * This program uses objects and creates a store 
- * with different items. It allows the user to search for items
- * in the store, and purchase items. It also Allows the admin to make 
- * changes to items in the store. It also keeps track of the money the store makes 
- * everyday.
- *
- * @author Fatima Syeda
- * @date 23 March 2023
- */
-
 //Import libraries
 import java.util.*;
 import java.io.*;
