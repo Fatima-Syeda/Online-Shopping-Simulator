@@ -1,13 +1,3 @@
-/**
- * The Product class
- *
- * Generated using Mr. Milardovic's ObjectMaker
- *
- * @author Mr. Milardovic
- * @date Monday, December 9, 2019, 8:45 AM
- *
- */
-
 public class Product
 
 {
