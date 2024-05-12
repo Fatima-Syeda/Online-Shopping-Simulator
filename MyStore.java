@@ -73,17 +73,7 @@ public class MyStore {
 
 	}//displayTitle(String)
 
-	/** 
-	 * Taken from Mr. Milardovic's Useful methods, ICS 4UC OneNote 
-	 * Used with permission. 
-	 * Wait for user to Enter y or n. 
-	 * 
-	 * It will let the user Enter anything, but it will convert it to lower case 
-	 * and then take the first character, checking if it is a 'y' or an 'n'. 
-	 * @param prompt Question to ask the user
-	 * @return char Answer of either 'y' or 'n'. 
-	 */ 
-
+	
 	public static char getYorN(String prompt) { 
 		char answer; 
 
