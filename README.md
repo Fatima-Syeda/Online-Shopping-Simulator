@@ -17,6 +17,13 @@ management tools for administrators. Utilizes principles like encapsulation, inh
 ![image](https://github.com/user-attachments/assets/22d227f3-fdfd-4f14-826a-1e9c4b784f3f)
 ![image](https://github.com/user-attachments/assets/477f6263-9878-4076-bcab-e3bd034ccc70)
 
+<h2>Features</h2>
+<ul>
+  <li>Inventory data, sales records, admin passwords, and other information are stored and managed using multiple text and CSV files.</li>
+  <li>Customers can search for store items, view product details, check available quantities (JIT inventory monitoring), and add items to their cart.</li>
+  <li>Admins have the ability to modify the admin password, view products, and update product information.</li>
+</ul>
+
 
 
 
