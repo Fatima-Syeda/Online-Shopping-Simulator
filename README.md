@@ -15,6 +15,8 @@ management tools for administrators. Utilizes principles like encapsulation, inh
 ![image](https://github.com/user-attachments/assets/e82f3790-76dc-45c1-96b1-05d017643a30)
 ![image](https://github.com/user-attachments/assets/728b0275-ae53-49f9-96c6-327cbb8340a6)
 ![image](https://github.com/user-attachments/assets/22d227f3-fdfd-4f14-826a-1e9c4b784f3f)
+![image](https://github.com/user-attachments/assets/477f6263-9878-4076-bcab-e3bd034ccc70)
+
 
 
 
